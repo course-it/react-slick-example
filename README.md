@@ -1,1 +1,1 @@
-# carousel-meli
+# react-slick-example
